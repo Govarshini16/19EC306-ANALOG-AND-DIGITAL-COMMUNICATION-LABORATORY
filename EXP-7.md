@@ -19,6 +19,9 @@ msg
 code
 # ENCODING OUTPUT:
 
+<img width="490" height="247" alt="image" src="https://github.com/user-attachments/assets/8391ec53-692c-4ff1-b25f-85361e853a26" />
+
+
 # DECODING PROGRAM:
 clc;
 
@@ -51,6 +54,9 @@ corrvect
 correctedcode
 
 # DECODING OUTPUT:
+
+<img width="411" height="242" alt="image" src="https://github.com/user-attachments/assets/825dec39-0e87-4371-9411-8744814c975c" />
+
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
