@@ -27,6 +27,8 @@ plot(y1);
 
 # OUTPUT:
 
+<img width="1918" height="472" alt="image" src="https://github.com/user-attachments/assets/94a23bf2-32d2-4747-b8e8-0916023732f1" />
+
 # RESULT:
 Thus, generation of ASK was implemented using MATLAB.
 
